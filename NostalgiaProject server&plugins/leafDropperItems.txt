@@ -1,0 +1,7 @@
+#Add the items you want to be dropped from leafs.#).
+#Fromat is : itemID:percent
+#Here are some examples :
+#6:1.0 (100% chance of dropping sapling)
+#6:0.07 (7% chance of dropping sapling)
+#18:0.0025 (.25% chance of dropping leaf block)
+6:0.06
